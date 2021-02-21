@@ -9,5 +9,7 @@ footer: 😁😁😁
 
 [hello](hello.md)
 
-[iconfont 选择图标骚操作](01.md)
+[iconfont Select icon Sao operation](01.md)
+
+[Front-end interview-JavaScript data types](02.md)
 

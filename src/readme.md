@@ -2,7 +2,7 @@
 blog: true
 home: true
 icon: home
-title: Mr.Hope
+title: Mr.Ygj
 heroImage: https://wx-xly-1301545895.cos.ap-beijing.myqcloud.com/my-website/logo.png
 heroText: The fallen cucumber
 tagline: 我永远都是最帅~~~
