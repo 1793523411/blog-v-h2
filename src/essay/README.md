@@ -7,26 +7,38 @@ footer: 😁😁😁
 
 # essay
 
-[hello](hello.md)
+@slidestart
 
-[iconfont Select icon Sao operation](01.md)
+## 随笔
 
-[Front-end interview-JavaScript data types](02.md)
+这里都是平时写的零散的文章
 
-[Front-end interview-closure](03.md)
+---
 
-[Front-end interview-prototype and prototype chain](04.md)
+## 前端面试
 
-[Prepare for an unexpected interview](05.md)
+这是我在准备面试那会做的总结
 
-[Front-end interview-JavaScript implementation inheritance](06.md)
+--
 
-[Front End Interview-Array in JavaScript](07.md)
+## 八股文
 
-[Front-end interview-this in JavaScript](08.md)
+这里主要是一些前端的基础知识
 
-[Front-end interview-deep copy and shallow copy](09.md)
+--
 
-[Front-end interview-memory management](10.md)
+## 其他方面
 
-[Front-end interview-event loop](11.md)
+这里就是前端方面的其他技术，也是为面试而准备
+
+---
+
+## 更多待续
+
+more····
+
+---
+
+😁😁😁😁😁😁😁😁😁😁😁
+
+@slideend
